@@ -71,3 +71,6 @@ Description: ALLOws for reporting observations or issues detected during the exe
 2.5 Quality area
 CU-019 Record quality incident 
 Description: Allows for recording defects detected in the fruit, such as blemishes, pest, damaged, fruit,, or issues with its condition
+
+CU-020 VIEW Quality indicators
+Description: Allows for the review of metrics related to defects, discards, IQF, and exportable fruit
