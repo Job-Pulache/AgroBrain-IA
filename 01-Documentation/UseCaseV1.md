@@ -62,3 +62,8 @@ Description: Allows you to record incidents observed in the field, such as pest,
 
 CU-017 Check crew progress 
 Description: Allows you to review the progress and performance of the crew under your supervision
+
+
+2.4 Operator
+CU-018 Report field incident
+Description: ALLOws for reporting observations or issues detected during the execution of agricultural tasks.
