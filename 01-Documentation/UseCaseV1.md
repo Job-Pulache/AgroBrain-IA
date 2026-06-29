@@ -67,3 +67,7 @@ Description: Allows you to review the progress and performance of the crew under
 2.4 Operator
 CU-018 Report field incident
 Description: ALLOws for reporting observations or issues detected during the execution of agricultural tasks.
+
+2.5 Quality area
+CU-019 Record quality incident 
+Description: Allows for recording defects detected in the fruit, such as blemishes, pest, damaged, fruit,, or issues with its condition
