@@ -33,3 +33,9 @@ all recorded production must be associated with:
 *Lot
 *WORK
 *Crews
+BR-011
+ Production must recorded using the unit corresponding to the task
+ Example:
+ Harvest - crates
+ Pruning - plants
+ Irrigation - hectares
