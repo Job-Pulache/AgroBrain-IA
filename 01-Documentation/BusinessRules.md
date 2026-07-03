@@ -45,3 +45,20 @@ The crates must be sorted according to their destination:
 *IQF
 *National marked
 *Discard
+
+QUALITY
+BR-013
+All incidents must be recordated indicating:
+*Farm/estate
+*Lot
+*Date
+*Type of incident
+*Person responsible
+BR-014 
+An Incident report may include photograpic evidence
+BR-015
+Each incident will have a severity level:
+*Low
+*Medium
+*High
+*Critical
