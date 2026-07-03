@@ -27,3 +27,9 @@ A foreman may supervise multiple crews
 
 PRODUCTION
 BR-010
+all recorded production must be associated with:
+*Date
+*Funds
+*Lot
+*WORK
+*Crews
