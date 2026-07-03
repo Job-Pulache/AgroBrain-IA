@@ -1,0 +1,29 @@
+User Management
+BR-001
+ Only active users may access the system
+
+BR-002 
+Each user must have a single primary role
+
+BR-003
+Every action performed must be recorded ina a audit log
+
+FUNDS
+B4-004 
+Each lot must belong to a single farm
+BR-005 
+A farm may contain multiple lots
+BR-006
+A veriety may be cultivated in different lots
+
+
+CREWS
+BR-007 
+Each crew must have a single designate foreman for a given shift
+BR-008
+A worker may belong to only crew during a single workday
+BR-009 
+A foreman may supervise multiple crews
+
+PRODUCTION
+BR-010
