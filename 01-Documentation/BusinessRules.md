@@ -39,3 +39,9 @@ BR-011
  Harvest - crates
  Pruning - plants
  Irrigation - hectares
+BR-012
+The crates must be sorted according to their destination:
+*Exportation
+*IQF
+*National marked
+*Discard
