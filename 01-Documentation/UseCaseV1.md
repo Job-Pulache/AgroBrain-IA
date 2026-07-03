@@ -74,3 +74,17 @@ Description: Allows for recording defects detected in the fruit, such as blemish
 
 CU-020 VIEW Quality indicators
 Description: Allows for the review of metrics related to defects, discards, IQF, and exportable fruit
+
+2.6 Operations Analyts
+CU-021 Operational Indicators Inquiry
+Description: Allows for the analysis of operational productivity, progress, performance, compliance, and quality
+
+CU-022 Export reports
+Description: Allows exporting operational reports for analysis or presentation
+
+2.7 Operations Management
+CU-023 View strategic indicators 
+Description: Allows for the viewing of consolidated indicators regarding productivity, quality, compliance, and the overall performance of the farms
+
+CU-024 View ranking of farms and work crews
+Description: Allows for the viewing of performance comparisons between farms, work crews, and campaigns
