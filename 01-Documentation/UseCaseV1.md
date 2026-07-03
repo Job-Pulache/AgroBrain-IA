@@ -88,3 +88,16 @@ Description: Allows for the viewing of consolidated indicators regarding product
 
 CU-024 View ranking of farms and work crews
 Description: Allows for the viewing of performance comparisons between farms, work crews, and campaigns
+
+3. Aumated System Use Cases(Agrobrain)
+CU-025 Generate Operational alerts
+Description: The system analyzes production, quality, and incident data to detect operational deviations or risks.
+
+CU-026 Generate operational recommendations 
+Description: The system proposes actions to improve productivity, quality, or resource allocation based on business rules
+
+CU-027 Detect quality trends
+Description: The system analyzes the historical behavior of quality incidents to identify increases or anomalous patterns
+
+CU-028 Answering intelligent queries 
+Description: The system answers user-posed questions in natural lenguaje regarding productivity, quality, progress, and alerts
