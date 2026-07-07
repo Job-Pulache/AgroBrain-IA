@@ -68,3 +68,5 @@ BR-016
 if the rejection rate exceeds the configured threshold, the system will generate an alert
 BR-017 
 If productivity drops below the histical average, the system will generate a preventive alert
+BR-018 
+If a batch shows a continuous increase in incidents, the system will notify the supervisor
