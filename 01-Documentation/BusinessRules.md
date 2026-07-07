@@ -72,3 +72,7 @@ BR-018
 If a batch shows a continuous increase in incidents, the system will notify the supervisor
 
 IA
+BR-019
+Recommendations must be generated taking into account productivity, quality, and incident history
+BR-020
+The system will store the recommendation history for future reference
