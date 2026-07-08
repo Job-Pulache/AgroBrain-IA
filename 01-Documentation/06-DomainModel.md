@@ -34,3 +34,13 @@ Intelligence
 -IA Consulting
 
 2- Relationship
+Season: 1 - n funds
+Fund: 1 - n Lots
+Lot: 1 - n LaborRegister
+Crews: 1 - n Operators
+Operator: n - 1 Crews
+LaborRegister: 1 - 1 Labor
+LaborRegister: 1 - 0..1 Production
+Production: 1 - n Incidents
+Production: 1 - n Alerts
+Alert: 1 - n Recommendations
