@@ -57,3 +57,11 @@ Management the general information for each agricultural unit
 Lot
 Responsability:
 To represent a specific area within a farm or estate
+
+LaborRegister
+Responsability:
+Record the execution of any agricultural task performed by a crew or operator
+
+Production
+Responsability:
+Record the yield obtained when the task involves hervesting
