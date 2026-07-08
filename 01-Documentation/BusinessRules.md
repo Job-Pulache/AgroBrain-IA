@@ -76,3 +76,9 @@ BR-019
 Recommendations must be generated taking into account productivity, quality, and incident history
 BR-020
 The system will store the recommendation history for future reference
+
+SYNCHRONIZATION
+BR-021
+The system will allow information to be recorded without an internet connection
+BR-022 
+When connectivity is available, the system automatically synchroizes pending information
