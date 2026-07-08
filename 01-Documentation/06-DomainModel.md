@@ -26,3 +26,9 @@ Quality
 -IncidentType
 -Severity
 -Photography
+
+Intelligence 
+-Indicator
+-Alert
+-Recommendation
+-IA Consulting
