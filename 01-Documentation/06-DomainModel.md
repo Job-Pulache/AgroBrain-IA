@@ -21,3 +21,8 @@ Operations
 -Labor Log - Fehca - Labor - Operator - Lot - If labor is cosecha, generates production
 -Production
 
+Quality
+-Incident
+-IncidentType
+-Severity
+-Photography
