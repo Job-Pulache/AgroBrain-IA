@@ -82,3 +82,11 @@ BR-021
 The system will allow information to be recorded without an internet connection
 BR-022 
 When connectivity is available, the system automatically synchroizes pending information
+
+AUDIT
+BR-023
+All critical modification must be recorded, indicating:
+*User
+*Date
+*time
+*Action performed
