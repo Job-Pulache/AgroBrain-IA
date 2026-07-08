@@ -90,3 +90,7 @@ All critical modification must be recorded, indicating:
 *Date
 *time
 *Action performed
+
+SEGURITY
+BR-024
+Each user views only the information corresponding to the assigned funds.
