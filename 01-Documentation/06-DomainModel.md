@@ -32,3 +32,5 @@ Intelligence
 -Alert
 -Recommendation
 -IA Consulting
+
+2- Relationship
