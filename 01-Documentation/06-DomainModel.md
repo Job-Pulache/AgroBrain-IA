@@ -44,3 +44,16 @@ LaborRegister: 1 - 0..1 Production
 Production: 1 - n Incidents
 Production: 1 - n Alerts
 Alert: 1 - n Recommendations
+
+3- RESPONSIBILITIES 
+SEAS0N
+Responsability:
+Group all information pertaining to an agricultural season
+
+FUND
+Responsability:
+Management the general information for each agricultural unit
+
+Lot
+Responsability:
+To represent a specific area within a farm or estate
