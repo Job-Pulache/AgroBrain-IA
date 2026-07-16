@@ -65,3 +65,8 @@ Record the execution of any agricultural task performed by a crew or operator
 Production
 Responsability:
 Record the yield obtained when the task involves hervesting
+
+Incidents
+Responsability:
+Recorded any event that affects quality, productivity, or operational continuity
+
