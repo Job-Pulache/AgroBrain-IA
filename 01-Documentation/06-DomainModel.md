@@ -70,3 +70,10 @@ Incidents
 Responsability:
 Recorded any event that affects quality, productivity, or operational continuity
 
+Alert
+Responsability:
+Automatically notify situations requiring attention
+
+Recommendation
+Responsability:
+Sugged corrective  or preventive actions  based on business rules and, in futured phases, on Artificial intelligence
