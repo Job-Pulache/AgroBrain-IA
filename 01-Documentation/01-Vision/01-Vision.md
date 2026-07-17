@@ -10,7 +10,7 @@ The platform aims to reduce reliance on manual reports, improve operational visi
 
 Agribusinesses generate large amounts of information related to production, agricultural tasks, personnel, quality, and perfomance.
 
-Ho:
+However:
 -The information is scarttered across multiple systems.
 -There are delays in generating reports
 -User depend on analysts to obtain specific information
