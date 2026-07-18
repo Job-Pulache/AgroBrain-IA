@@ -28,3 +28,4 @@ To develop an intelligent platform capable of consulting, analyzing, and recomme
 -Recommend corrective actions
 -Improve decision-making
 -Reduce reliance on manual reports
+    
