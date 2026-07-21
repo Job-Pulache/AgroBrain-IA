@@ -6,7 +6,7 @@ The system shall allow for the registration, modification, querying, and deactiv
 
 ---
 
-## RF-002 Role Management
+## RF-002 Role Managemente
 
 The system shall allow for the assignment of access roles to users.
 
