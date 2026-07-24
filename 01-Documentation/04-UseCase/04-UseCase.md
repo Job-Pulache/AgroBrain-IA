@@ -10,7 +10,7 @@
 2. Use case for actor
 2.1 System administrator
 
-CU-001 Login 
+CU-001 Login    
 Description: It allows the users to authenticate on the platform according to their role and credentials
 
 CU-002 Manege Users
